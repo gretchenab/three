@@ -1,0 +1,7 @@
+require('modeId',function(mode){
+				//put your code here
+			});
+
+			require(['modeA','modeB'],function(A,B){
+				//put your code here
+			});
